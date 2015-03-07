@@ -24,10 +24,8 @@ public class Biker_BoardActivity extends ActionBarActivity {
     // slide menu items
     private String[] navMenuTitles;
     private TypedArray navMenuIcons;
-
     private ArrayList<NavDrawerItem> navDrawerItems;
     private NavDrawerListAdapter adapter;
-
     private DrawerLayout mDrawerLayout;
     private ListView mDrawerList;
 
