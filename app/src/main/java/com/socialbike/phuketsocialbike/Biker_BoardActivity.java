@@ -18,7 +18,6 @@ import java.util.ArrayList;
 import adapter.NavDrawerListAdapter;
 import bean.NavDrawerItem;
 
-
 public class Biker_BoardActivity extends ActionBarActivity {
 
     // slide menu items
